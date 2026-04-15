@@ -120,6 +120,7 @@ AI 기능 통합과 실시간 시스템 구축에 관심이 많으며,
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-m1nidrag0n.github.io-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://m1nidrag0n.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-M1NiDRAG0N-181717?style=for-the-badge&logo=github)](https://github.com/M1NiDRAG0N)
 [![Gmail](https://img.shields.io/badge/Gmail-minidragon.lee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minidragon.lee@gmail.com)
 
@@ -227,6 +228,7 @@ AI機能の統合とリアルタイムシステムの構築に強い関心を持
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-m1nidrag0n.github.io-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://m1nidrag0n.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-M1NiDRAG0N-181717?style=for-the-badge&logo=github)](https://github.com/M1NiDRAG0N)
 [![Gmail](https://img.shields.io/badge/Gmail-minidragon.lee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minidragon.lee@gmail.com)
 
