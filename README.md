@@ -12,13 +12,13 @@
 </div>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FM1NiDRAG0N&count_bg=%234f46e5&title_bg=%23555555&icon=github&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=M1NiDRAG0N&color=4f46e5&style=flat-square&label=visitors" alt="visitors"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1NiDRAG0N&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=M1NiDRAG0N&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="95%"/>
 </div>
 
 ---
