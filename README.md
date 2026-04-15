@@ -1,6 +1,7 @@
-<!-- 언어 선택 / 言語選択 -->
+<!-- 언어 선택 / Language / 言語選択 -->
 <div align="center">
   <a href="#korean">🇰🇷 한국어</a> &nbsp;|&nbsp;
+  <a href="#english">🇺🇸 English</a> &nbsp;|&nbsp;
   <a href="#japanese">🇯🇵 日本語</a>
 </div>
 
@@ -8,6 +9,16 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=200&section=header&text=MINIDRAGON&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=22" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FM1NiDRAG0N&count_bg=%234f46e5&title_bg=%23555555&icon=github&icon_color=%23FFFFFF&title=visitors&edge_flat=true" alt="visitors"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M1NiDRAG0N&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
 </div>
 
 ---
@@ -117,6 +128,55 @@ AI 기능 통합과 실시간 시스템 구축에 관심이 많으며,
 <br/>
 
 ### 📫 연락처
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-m1nidrag0n.github.io-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://m1nidrag0n.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-M1NiDRAG0N-181717?style=for-the-badge&logo=github)](https://github.com/M1NiDRAG0N)
+[![Gmail](https://img.shields.io/badge/Gmail-minidragon.lee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minidragon.lee@gmail.com)
+
+</div>
+
+---
+
+<h2 id="english">🇺🇸 English</h2>
+
+<div align="center">
+
+### Hi, I'm Lee Yongmin (MINIDRAGON) 👋
+
+**Full-Stack Developer who designs and builds services end-to-end — from backend to frontend.**  
+Passionate about AI integration and real-time systems.  
+Currently building **sora-api**, an AI-powered lifestyle platform.
+
+</div>
+
+<br/>
+
+### 🛠 Tech Stack
+
+**Backend** — Java 21 · Spring Boot 3.5 · Spring Security · Spring AI · NestJS  
+**Frontend** — JavaScript · React · Vue.js · TypeScript · HTML5 · CSS3  
+**Database & Cache** — MySQL · Oracle · Redis  
+**Infra** — Docker · Nginx · Linux · GitHub Actions · Oracle Cloud
+
+<br/>
+
+### 🚀 Featured Project — [sora-api](https://github.com/M1NiDRAG0N/sora-api)
+
+> AI lifestyle platform where the assistant **"Sora Godong"** executes all features via natural language using Function Calling.
+
+- 💰 Expense tracking + chart visualization
+- 🛒 Used goods market + keyword alerts
+- 💬 Community board + real-time chat (WebSocket / STOMP)
+- ⚡ Flash sales + Google Maps integration
+- 🔔 SSE real-time notifications
+
+> **k6 load test:** 49 CCU · p(95) 501ms · **0% error rate**
+
+<br/>
+
+### 📫 Contact
 
 <div align="center">
 
